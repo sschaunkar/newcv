@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newcv/static/css/main.ede0ec1c.css",
+    "main.js": "/newcv/static/js/main.89d77c61.js",
+    "static/js/592.931dc033.chunk.js": "/newcv/static/js/592.931dc033.chunk.js",
+    "static/media/office2.jpg": "/newcv/static/media/office2.2508607c1f4c20992119.jpg",
+    "static/media/office1.jpg": "/newcv/static/media/office1.a9bdd94e0ab7626957f8.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/newcv/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/newcv/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/newcv/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/newcv/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/newcv/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/newcv/index.html",
+    "main.ede0ec1c.css.map": "/newcv/static/css/main.ede0ec1c.css.map",
+    "main.89d77c61.js.map": "/newcv/static/js/main.89d77c61.js.map",
+    "592.931dc033.chunk.js.map": "/newcv/static/js/592.931dc033.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ede0ec1c.css",
+    "static/js/main.89d77c61.js"
+  ]
+}
